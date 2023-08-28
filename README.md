@@ -53,3 +53,10 @@ This shows the speed of the car when there is no detection of a speed breaker in
 
 
 
+https://github.com/Vipul1019/Speed_breaker_detection_for_Indian_roads/assets/77145832/dc60b473-0b08-47e4-8b6d-6831f730ad87
+
+
+
+
+
+
