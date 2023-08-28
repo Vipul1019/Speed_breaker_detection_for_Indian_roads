@@ -21,6 +21,9 @@ Faster R-CNN has two networks: A region proposal network (RPN) for generating re
 3. Apply ROI pooling layer to bring down all the proposals to the same size.
 4. Finally, pass these proposals to a fully connected layer in order to classify any predicted bounding boxes for the image.
 
+![Fast-RCNN-framework-for-object-detection-and-classification](https://github.com/Vipul1019/Speed_breaker_detection_for_Indian_roads/assets/77145832/b838f71b-292c-421c-863d-3bbafc7e1a92)
+
+
 B. Speed breaker Detection Module:
 
 The Region-based Convolutional Neural Network (RCNN) architecture is then employed for classification and localization after potential speed bumps have been identified. In several computer vision applications, object detection and localization have been accomplished using the deep learning model RCNN.
