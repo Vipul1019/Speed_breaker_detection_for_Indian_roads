@@ -31,4 +31,8 @@ The RCNN model extracts characteristics from each ROI using a convolutional neur
 
 <img width="580" alt="flowchartspeeed" src="https://github.com/Vipul1019/Speed_breaker_detection_for_Indian_roads/assets/77145832/fc35e30e-8711-4e3a-9d68-a7a5c285c9dc">
 
+# RESULTS 
+
+Obtained Loss after 4 epochs = 0.0138
+
 
