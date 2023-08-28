@@ -42,7 +42,10 @@ Obtained Loss after 4 epochs = 0.0138
 
 
 <img width="300" alt="res3" src="https://github.com/Vipul1019/Speed_breaker_detection_for_Indian_roads/assets/77145832/6f5af8f7-343a-4e51-88e1-9b31cfa5cb48">
+
 This shows the speed of the car when there is no detection of a speed breaker in advance.
+
+
 
 
 
